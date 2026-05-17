@@ -3,3 +3,7 @@ key.categories.devtools=DevTools
 key.devtools.creative=Switch to Creative Mode
 key.devtools.spectator=Switch to Spectator Mode
 key.devtools.survival=Switch to Survival Mode
+key.devtools.heal=Heal Player
+key.devtools.feed=Feed Player
+key.devtools.repeat_command=Repeat Last Command
+key.devtools.toggle_day_night=Toggle Day/Night
