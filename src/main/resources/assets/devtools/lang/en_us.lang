@@ -1,0 +1,5 @@
+menu.devtools.create_test_world=Create Test World
+key.categories.devtools=DevTools
+key.devtools.creative=Switch to Creative Mode
+key.devtools.spectator=Switch to Spectator Mode
+key.devtools.survival=Switch to Survival Mode
